@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Douglas C. B. da Silva!
+# 👋 Olá, eu sou Douglas C. B. da Silva.
 
 ## 🚀 Frontend Web Developer
 
